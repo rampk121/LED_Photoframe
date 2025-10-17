@@ -78,11 +78,11 @@ CRGBPalette16 purplePalette = CRGBPalette16(                                    
 
   CRGB::Magenta,
   CRGB::Magenta,
-  CRGB::DarkViolet,
-  CRGB::DarkViolet,
+  CRGB::Purple,
+  CRGB::Purple,
 
-  CRGB::DarkViolet,
-  CRGB::DarkViolet,
+  CRGB::Purple,
+  CRGB::Purple,
   CRGB::Linen,
   CRGB::Linen
 
